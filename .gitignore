@@ -1,3 +1,2 @@
-$cat .gitignore
-first.txt
-
+#ignore this file
+second.tx
